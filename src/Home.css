@@ -1,0 +1,34 @@
+.top{
+    display: flex;
+    width: 1000px;
+    gap: 60px;
+    margin: 0;
+    height: 25px;
+}
+
+.title{
+   width: 450px;
+   border-radius: 8px;
+}
+
+.btn{
+    width: 100px;
+    border-radius: 8px;
+}
+
+.txtarea{
+    width: 450px;
+    height: 500px;
+}
+
+.txtarea textarea{
+    width: 450px;
+    height: 500px;
+}
+
+.home{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

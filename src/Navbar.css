@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    border: 1px solid black;
+    width: 1000px;
+    background-color: rgb(129, 129, 129);
+    border-radius: 8px;
+    height: 25px;
+    font-size: 20px;
+    margin: 0;
+}
+
+.homebtn{
+    border-right: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+
+.pastesbtn{
+    width: 50%;
+    text-align: center;
+}
